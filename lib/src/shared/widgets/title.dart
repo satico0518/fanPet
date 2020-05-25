@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
 
 class TitleWidget extends StatelessWidget {
   final double marginTop;
@@ -13,7 +12,7 @@ class TitleWidget extends StatelessWidget {
         alignment: Alignment.topCenter,
         child: Text(
           'FanPet',
-          style: GoogleFonts.acme(color: Theme.of(context).primaryColor, fontSize: 50),
+          style: TextStyle(color: Theme.of(context).primaryColor, fontSize: 50),
         ),
       ),
     );

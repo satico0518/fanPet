@@ -2,7 +2,6 @@ import 'package:fanpet/src/models/slide.model.dart';
 import 'package:fanpet/src/shared/widgets/background.dart';
 import 'package:fanpet/src/shared/widgets/title.dart';
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
 
 class SlideWidget extends StatelessWidget {
   final SlideModel slideData;
@@ -27,7 +26,7 @@ class SlideWidget extends StatelessWidget {
             padding: const EdgeInsets.symmetric(horizontal: 20.0, vertical: 20),
             child: Text(
               slideData.text,
-              style: GoogleFonts.acme(color: Colors.white, fontSize: 20),
+              style: TextStyle(color: Colors.white, fontSize: 20),
               textAlign: TextAlign.justify,
             ),
           ),

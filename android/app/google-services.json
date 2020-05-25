@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "932098319942",
+    "firebase_url": "https://fanpet-8e45c.firebaseio.com",
+    "project_id": "fanpet-8e45c",
+    "storage_bucket": "fanpet-8e45c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932098319942:android:52c0f39da485c99dc58c47",
+        "android_client_info": {
+          "package_name": "com.fanpet2020.fanpet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932098319942-abkt7dj3ogsssilor1drb9gf8a3fctof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDSUilOITk2qNqXFNmFpi7wTrbe_y0_x0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932098319942-abkt7dj3ogsssilor1drb9gf8a3fctof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

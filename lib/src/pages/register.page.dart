@@ -80,7 +80,7 @@ class RegisterPage extends StatelessWidget {
                         ],
                       ),
                     ),
-                  )
+                  ),
                 ],
               ),
             ),
